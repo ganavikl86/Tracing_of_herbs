@@ -7,17 +7,29 @@ Traditional herbal supply chains suffer from issues like adulteration, lack of t
 
 🚀 Live Demo
 🌐 Frontend: https://ayurtrace-frontend.onrender.com
+
 🔗 Backend API: https://ayurtrace-59xd.onrender.com
+
 🎯 Key Features
+
 🔐 Blockchain-based data storage (immutable records)
+
 📦 End-to-end supply chain tracking
+
 📍 Geo-tagging of herb origin
+
 🔍 QR code verification system
+
 🤖 AI-based herb identification (optional)
+
 👥 Role-based access (Admin, Collector, Manufacturer, etc.)
+
 📊 Dashboard with analytics
+
 📜 Smart contract validation
+
 🏗️ System Architecture
+
 The system follows a full-stack architecture:
 
 Frontend → React (Vite)
@@ -25,6 +37,7 @@ Backend → Node.js + Express
 Blockchain → Ethereum (via Ethers.js)
 Storage → JSON / Database + Blockchain ledger
 Verification → QR Code system
+
 🔄 Workflow
 User registers (Farmer / Collector / Admin)
 Herb details are uploaded (with geo-location)
@@ -32,6 +45,7 @@ Data is recorded on blockchain
 Processing & manufacturing updates are added
 QR code is generated for the product
 Consumer scans QR → sees full traceability
+
 🧪 Technologies Used
 Frontend
 React.js
@@ -50,9 +64,11 @@ QR Code Generator
 Geo-tagging (GPS)
 JSON / File Storage
 ⚙️ Installation & Setup
+
 1️⃣ Clone Repository
 git clone https://github.com/Pushpalatha276/ayurtrace.git
 cd ayurtrace
+
 2️⃣ Backend Setup
 cd backend
 npm install
