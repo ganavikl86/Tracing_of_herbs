@@ -7,17 +7,29 @@ Traditional herbal supply chains suffer from issues like adulteration, lack of t
 
 🚀 Live Demo
 🌐 Frontend: https://ayurtrace-frontend.onrender.com
+
 🔗 Backend API: https://ayurtrace-59xd.onrender.com
+
 🎯 Key Features
+
 🔐 Blockchain-based data storage (immutable records)
+
 📦 End-to-end supply chain tracking
+
 📍 Geo-tagging of herb origin
+
 🔍 QR code verification system
+
 🤖 AI-based herb identification (optional)
+
 👥 Role-based access (Admin, Collector, Manufacturer, etc.)
+
 📊 Dashboard with analytics
+
 📜 Smart contract validation
+
 🏗️ System Architecture
+
 The system follows a full-stack architecture:
 
 Frontend → React (Vite)
